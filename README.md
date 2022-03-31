@@ -1,6 +1,5 @@
 # Zanerogl
 
----
 - 👋 Hi, here.
 - This my first repositorie on github so I don't konw what to say. If you're still interested in me, you can [click hear](https://zanerogl.github.io).
 
